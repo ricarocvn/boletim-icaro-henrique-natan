@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Erick Natan
 
 def situacao(m):
     """Devolve "Aprovado" se a media for 60 ou mais;
