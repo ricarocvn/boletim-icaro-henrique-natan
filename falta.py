@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Carlos Henrique
 
 def falta(m):
     """Devolve quantos pontos faltam para chegar a 60.
